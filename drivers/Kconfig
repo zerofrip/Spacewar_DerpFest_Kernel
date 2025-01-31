@@ -242,6 +242,8 @@ config KSU
 	default n
 	help
 	Enable kernel-level root privileges on Android System.
+source "drivers/kernelsu/Kconfig"
 endmenu
 
+source "drivers/kernelsu/Kconfig"
 endmenu

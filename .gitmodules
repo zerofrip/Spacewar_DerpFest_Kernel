@@ -1,0 +1,3 @@
+[submodule "NernelSU-Next"]
+	path = NernelSU-Next
+	url = https://github.com/zerofrip/derpfest_spacewar_kernel.git
