@@ -1,12 +1,12 @@
 
 config NOTHING_BOOTLOADER_LOG
-	tristate n
+	tristate "NOTHING_BOOTLOADER_LOG"
 	default n
 	help
 		show booloader_log under proc/bootloader_log
 
 config NOTHING_WRITRBACK_KMSG
-	tristate n
+	tristate "NOTHING_WRITRBACK_KMSG"
 	default n
 	help
 		The driver logs power-on to system_stage kmsg log.

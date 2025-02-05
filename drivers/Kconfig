@@ -245,5 +245,5 @@ config KSU
 source "drivers/kernelsu/Kconfig"
 endmenu
 
-source "drivers/kernelsu/Kconfig"
 endmenu
+
