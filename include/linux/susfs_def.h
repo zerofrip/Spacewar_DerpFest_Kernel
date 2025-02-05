@@ -15,6 +15,7 @@
 #define CMD_SUSFS_ADD_TRY_UMOUNT 0x55580
 #define CMD_SUSFS_SET_UNAME 0x55590
 #define CMD_SUSFS_ENABLE_LOG 0x555a0
+#define CMD_SUSFS_SET_CMDLINE_OR_BOOTCONFIG 0x555b0
 #define CMD_SUSFS_ADD_OPEN_REDIRECT 0x555c0
 #define CMD_SUSFS_RUN_UMOUNT_FOR_CURRENT_MNT_NS 0x555d0
 #define CMD_SUSFS_SHOW_VERSION 0x555e1
@@ -25,6 +26,7 @@
 #define CMD_SUSFS_SUS_SU 0x60000
 
 #define SUSFS_MAX_LEN_PATHNAME 256 // 256 should address many paths already unless you are doing some strange experimental stuff, then set your own desired length
+#define SUSFS_FAKE_CMDLINE_OR_BOOTCONFIG_SIZE 4096
 
 #define TRY_UMOUNT_DEFAULT 0 /* used by susfs_try_umount() */
 #define TRY_UMOUNT_DETACH 1 /* used by susfs_try_umount() */
