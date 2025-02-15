@@ -30,6 +30,7 @@
 #include <linux/syscore_ops.h>
 #include <linux/tick.h>
 #include <linux/sched/sysctl.h>
+#include <linux/battery_saver.h>
 #include <trace/events/power.h>
 
 static LIST_HEAD(cpufreq_policy_list);
@@ -752,11 +753,15 @@ static ssize_t store_##file_name					\
 	unsigned long val;						\
 	int ret;							\
 									\
+	if (&policy->object == &policy->min &&				\
+			is_battery_saver_on())				\
+		return count;						\		\
+									\
 	ret = sscanf(buf, "%lu", &val);					\
 	if (ret != 1)							\
 		return -EINVAL;						\
 									\
-	ret = freq_qos_update_request(policy->object##_freq_req, val);\
+	ret = freq_qos_update_request(policy->object##_freq_req, val);	\
 	return ret >= 0 ? count : ret;					\
 }
 
