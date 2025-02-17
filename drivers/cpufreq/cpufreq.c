@@ -755,7 +755,7 @@ static ssize_t store_##file_name					\
 									\
 	if (&policy->object == &policy->min &&				\
 			is_battery_saver_on())				\
-		return count;						\		\
+		return count;						\
 									\
 	ret = sscanf(buf, "%lu", &val);					\
 	if (ret != 1)							\
