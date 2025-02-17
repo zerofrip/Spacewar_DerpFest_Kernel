@@ -1,0 +1,99 @@
+Unofficial DerpFest Spacewar Kernel v2.4
+
+Supports updates from the kernel manager
+https://raw.githubusercontent.com/zerofrip/derpfest_spacewar_kernel/refs/heads/derp15.1/kernel-downloads.json
+
+Introduce kernelspace battery saver mode
+kevios12
+kernelspace battery saver mode is enabled in battery saver mode
+
+Known issues
+Device crashes frequently in Adguard's Proxy mode
+
+Include
+KernelSU-Next
+susfs4ksu 1.5.5
+wireguard-linux-compat 1.0.20220627
+Maphide LineageOS Detections
+Futile Maphide for jit-zygote-cache Detections
+
+
+
+Unofficial DerpFest Spacewar Kernel v2.3
+
+Aggressive suspend settings
+If you do not receive a notification or it comes in late, please contact us
+
+Known issues
+Device crashes frequently in Adguard's Proxy mode
+
+Include
+KernelSU-Next
+susfs4ksu 1.5.5
+wireguard-linux-compat 1.0.20220627
+Maphide LineageOS Detections
+Futile Maphide for jit-zygote-cache Detections
+
+
+
+Unofficial DerpFest Spacewar Kernel v2.2
+
+Adapt 69_hide_stuff.patch
+https://github.com/WildPlusKernel/kernel_patches/blob/main/69_hide_stuff.patch
+
+Known issues
+Device crashes frequently in Adguard's Proxy mode
+
+Include
+KernelSU-Next
+susfs4ksu 1.5.5
+wireguard-linux-compat 1.0.20220627
+Maphide LineageOS Detections
+Futile Maphide for jit-zygote-cache Detections
+
+Unofficial DerpFest Spacewar Kernel v2.1
+
+CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG enabled
+Spoof the output of /proc/bootconfig (gki) or /proc/cmdline (non-gki) with a user-defined file.
+Effective on all processes.
+
+Known issues
+Device crashes frequently in Adguard's Proxy mode
+
+Include
+KernelSU-Next
+susfs4ksu 1.5.5
+wireguard-linux-compat 1.0.20220627
+
+
+
+Unofficial DerpFest Spacewar Kernel v2.0
+
+Update susfs 1.5.5
+
+Known issues
+
+CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG
+Spoof the output of /proc/bootconfig (gki) or /proc/cmdline (non-gki) with a user-defined file.
+Effective on all processes.
+doesn't work
+
+Device crashes frequently in Adguard's Proxy mode
+
+Include
+KernelSU-Next
+susfs4ksu 1.5.5
+wireguard-linux-compat 1.0.20220627
+
+
+
+Unofficial DerpFest Spacewar Kernel v1.0
+
+Known issues
+CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG doesn't work
+Device crashes frequently in Adguard's Proxy mode
+
+Include
+KernelSU-Next
+susfs4ksu 1.5.4
+wireguard-linux-compat 1.0.20220627

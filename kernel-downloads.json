@@ -4,10 +4,10 @@
     "name": "Unofficial DerpFest Spacewar Kernel",
     "version": "5.4.280-DERPv2.4+",
     "link": "https://github.com/zerofrip/derpfest_spacewar_kernel/releases/latest/download/Uo_derp_spacewar_kernel.zip",
-    "changelog_url": "https://github.com/zerofrip/derpfest_spacewar_kernel/releases/latest",
-    "sha1": "f2a609e99dfc0c6a7f18de8f4b2cf68896fc31fe"
+    "changelog_url": "https://raw.githubusercontent.com/zerofrip/derpfest_spacewar_kernel/refs/heads/derp15.1/ChangeLog.txt",
+    "sha1": "53cf3fbb0b02d013a2c7b699f0c043f21ce2ea3d"
   },
   "support": {
-    "link": "https://github.com/zerofrip"
+    "link": "https://github.com/zerofrip/derpfest_spacewar_kernel/discussions"
   }
 }
