@@ -1,0 +1,12 @@
+{
+  "kernel": {
+    "name": "Unofficial DerpFest Spacewar Kernel",
+    "version": "v2.4",
+    "link": "https://github.com/zerofrip/derpfest_spacewar_kernel/releases/latest/download/Uo_derp_spacewar_kernel.zip",
+    "changelog_url": "https://github.com/zerofrip/derpfest_spacewar_kernel/releases/latest",
+    "sha1": "f2a609e99dfc0c6a7f18de8f4b2cf68896fc31fe"
+  },
+  "support": {
+    "link": "https://github.com/zerofrip"
+  }
+}
