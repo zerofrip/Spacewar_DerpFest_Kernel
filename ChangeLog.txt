@@ -1,6 +1,6 @@
 Unofficial DerpFest Spacewar Kernel v2.4
 
-Supports updates from the kernel manager
+Supports updates from the Franco Kernel Manager
 https://raw.githubusercontent.com/zerofrip/derpfest_spacewar_kernel/refs/heads/derp15.1/kernel-downloads.json
 
 Introduce kernelspace battery saver mode
