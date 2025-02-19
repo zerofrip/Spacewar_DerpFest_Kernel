@@ -10,13 +10,6 @@ kernelspace battery saver mode is enabled in battery saver mode
 Known issues
 Device crashes frequently in Adguard's Proxy mode
 
-Include
-KernelSU-Next
-susfs4ksu 1.5.5
-wireguard-linux-compat 1.0.20220627
-Maphide LineageOS Detections
-Futile Maphide for jit-zygote-cache Detections
-
 
 
 Unofficial DerpFest Spacewar Kernel v2.3
@@ -26,13 +19,6 @@ If you do not receive a notification or it comes in late, please contact us
 
 Known issues
 Device crashes frequently in Adguard's Proxy mode
-
-Include
-KernelSU-Next
-susfs4ksu 1.5.5
-wireguard-linux-compat 1.0.20220627
-Maphide LineageOS Detections
-Futile Maphide for jit-zygote-cache Detections
 
 
 
@@ -44,12 +30,7 @@ https://github.com/WildPlusKernel/kernel_patches/blob/main/69_hide_stuff.patch
 Known issues
 Device crashes frequently in Adguard's Proxy mode
 
-Include
-KernelSU-Next
-susfs4ksu 1.5.5
-wireguard-linux-compat 1.0.20220627
-Maphide LineageOS Detections
-Futile Maphide for jit-zygote-cache Detections
+
 
 Unofficial DerpFest Spacewar Kernel v2.1
 
@@ -59,11 +40,6 @@ Effective on all processes.
 
 Known issues
 Device crashes frequently in Adguard's Proxy mode
-
-Include
-KernelSU-Next
-susfs4ksu 1.5.5
-wireguard-linux-compat 1.0.20220627
 
 
 
@@ -80,11 +56,6 @@ doesn't work
 
 Device crashes frequently in Adguard's Proxy mode
 
-Include
-KernelSU-Next
-susfs4ksu 1.5.5
-wireguard-linux-compat 1.0.20220627
-
 
 
 Unofficial DerpFest Spacewar Kernel v1.0
@@ -92,8 +63,3 @@ Unofficial DerpFest Spacewar Kernel v1.0
 Known issues
 CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG doesn't work
 Device crashes frequently in Adguard's Proxy mode
-
-Include
-KernelSU-Next
-susfs4ksu 1.5.4
-wireguard-linux-compat 1.0.20220627
