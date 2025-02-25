@@ -1,7 +1,7 @@
 # Unofficial DerpFest Spacewar Kernel
 
 # Supports updates from the [Franco Kernel Manager](https://play.google.com/store/apps/details?id=com.franco.kernel)
-- https://raw.githubusercontent.com/zerofrip/derpfest_spacewar_kernel/refs/heads/derp15.1/kernel-downloads.json
+- https://raw.githubusercontent.com/zerofrip/Spacewar_DerpFest_Kernel/refs/heads/derp15.1/kernel-downloads.json
 
 # Include
 - KernelSU-Next
