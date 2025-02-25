@@ -3,7 +3,7 @@
     "date": "2025-02-23",
     "name": "Unofficial DerpFest Spacewar Kernel",
     "version": "5.4.280-DERPv2.5+",
-    "link": "https://github.com/zerofrip/derpfest_spacewar_kernel/releases/latest/download/Uo_derp_spacewar_kernel.zip",
+    "link": "https://github.com/zerofrip/Spacewar_DerpFest_Kernel/releases/latest/download/Uo_derp_spacewar_kernel.zip",
     "changelog_url": "https://raw.githubusercontent.com/zerofrip/derpfest_spacewar_kernel/refs/heads/derp15.1/ChangeLog.txt",
     "sha1": "d09632e042140d59c8c6afe1e9e215b9bc8d8398"
   },
