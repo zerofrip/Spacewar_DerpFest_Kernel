@@ -1,3 +1,9 @@
+Unofficial DerpFest Spacewar Kernel v2.6
+
+Fixed code that may have contributed to bugs
+
+
+
 Unofficial DerpFest Spacewar Kernel v2.5
 
 Fixed code that may have contributed to bugs
