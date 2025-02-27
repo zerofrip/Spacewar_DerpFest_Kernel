@@ -398,7 +398,7 @@ show_map_vma(struct seq_file *m, struct vm_area_struct *vma)
 		ino = inode->i_ino;
 		#ifdef CONFIG_KSU_SUSFS_SUS_KSTAT
 		bypass_orig_flow:
-#		endif
+		#endif
 		pgoff = ((loff_t)vma->vm_pgoff) << PAGE_SHIFT;
 		dentry = file->f_path.dentry;
         	if (dentry) {
