@@ -1,77 +1,58 @@
+Unofficial DerpFest Spacewar Kernel v2.7
+Update susfs Remove support for Shamiko
+Enable TCP BBR and set it to default
+Known issues
+Device crashes frequently in Adguard's Proxy mode
+
 Unofficial DerpFest Spacewar Kernel v2.6
-
 Fixed code that may have contributed to bugs
-
-
+Known issues
+Device crashes frequently in Adguard's Proxy mode
 
 Unofficial DerpFest Spacewar Kernel v2.5
-
 Fixed code that may have contributed to bugs
-
-
+Known issues
+Device crashes frequently in Adguard's Proxy mode
 
 Unofficial DerpFest Spacewar Kernel v2.4
-
 Supports updates from the Franco Kernel Manager
 https://raw.githubusercontent.com/zerofrip/derpfest_spacewar_kernel/refs/heads/derp15.1/kernel-downloads.json
-
 Introduce kernelspace battery saver mode
 kevios12
-kernelspace battery saver mode is enabled in battery saver mode
-
+kernelspace battery saver mode is enabled in battery saver mod
 Known issues
 Device crashes frequently in Adguard's Proxy mode
-
-
 
 Unofficial DerpFest Spacewar Kernel v2.3
-
 Aggressive suspend settings
 If you do not receive a notification or it comes in late, please contact us
-
 Known issues
 Device crashes frequently in Adguard's Proxy mode
-
-
 
 Unofficial DerpFest Spacewar Kernel v2.2
-
 Adapt 69_hide_stuff.patch
 https://github.com/WildPlusKernel/kernel_patches/blob/main/69_hide_stuff.patch
-
 Known issues
 Device crashes frequently in Adguard's Proxy mode
 
-
-
 Unofficial DerpFest Spacewar Kernel v2.1
-
 CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG enabled
 Spoof the output of /proc/bootconfig (gki) or /proc/cmdline (non-gki) with a user-defined file.
 Effective on all processes.
-
 Known issues
 Device crashes frequently in Adguard's Proxy mode
 
-
-
 Unofficial DerpFest Spacewar Kernel v2.0
-
 Update susfs 1.5.5
-
 Known issues
-
+Device crashes frequently in Adguard's Proxy mode
 CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG
 Spoof the output of /proc/bootconfig (gki) or /proc/cmdline (non-gki) with a user-defined file.
 Effective on all processes.
 doesn't work
-
 Device crashes frequently in Adguard's Proxy mode
 
-
-
 Unofficial DerpFest Spacewar Kernel v1.0
-
 Known issues
 CONFIG_KSU_SUSFS_SPOOF_CMDLINE_OR_BOOTCONFIG doesn't work
 Device crashes frequently in Adguard's Proxy mode
