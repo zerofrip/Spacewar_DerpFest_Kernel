@@ -9,6 +9,7 @@
 - wireguard-linux-compat 1.0.20220627 
 - Maphide LineageOS Detections
 - Futile Maphide for jit-zygote-cache Detections
+- Enable TCP BBR and set it to default
 
 # Thanks for
 - DerpFest Kernel
