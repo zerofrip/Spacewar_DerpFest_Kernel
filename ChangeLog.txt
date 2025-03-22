@@ -1,6 +1,7 @@
 Unofficial DerpFest Spacewar Kernel v2.7
 Update susfs Remove support for Shamiko
 Enable TCP BBR and set it to default
+Fixed problem with side-loading from custom recovery
 Known issues
 Device crashes frequently in Adguard's Proxy mode
 
