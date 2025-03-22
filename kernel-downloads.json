@@ -5,7 +5,7 @@
     "version": "5.4.280-DERP-2.7+",
     "link": "https://github.com/zerofrip/Spacewar_DerpFest_Kernel/releases/latest/download/Uo_Spacewar_Derp_Kernel.zip",
     "changelog_url": "https://raw.githubusercontent.com/zerofrip/Spacewar_DerpFest_Kernel/refs/heads/derp15.1/ChangeLog.txt",
-    "sha1": "8aff4b23d7419327d4a714b06c19541dc1ee6c21"
+    "sha1": "755d582645676aa450bfdfe5f9813e739967f797"
   },
   "support": {
     "link": "https://github.com/zerofrip/Spacewar_DerpFest_Kernel/discussions"
